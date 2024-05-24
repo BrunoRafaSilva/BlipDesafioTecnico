@@ -11,8 +11,10 @@
 <hr>
 
 ## Descrição da atividade
- - Criar uma API utilizando JavaScript ou C# para que ela retorne quais são os 5 repositórios, utilizando C#, com a data de criação mais antiga do repósitorio da [Blip no GitHub](https://github.com/takenet) , utilizando como intermediário a API do GitHub;
- - Hospedar esta API em um serviço em nuvem _(Eu escolhi o Google Cloud com a appengine e por conta disso pode acontecer da primeira requisição na api ser um pouco demorada por conta do boot, agradeço acompreensão)_.
+ - Criar uma API utilizando JavaScript ou C# para que ela retorne quais são os 5 repositórios, utilizando C#, com a data de criação mais antiga do repósitorio da [Blip no GitHub](https://github.com/takenet) , utilizando como intermediário a API do GitHub;  
+<br/><br/>
+ - Hospedar esta API em um serviço em nuvem _(Eu escolhi o Google Cloud com a appengine e por conta disso pode acontecer da primeira requisição na api ser um pouco demorada por conta do boot, agradeço acompreensão)_;
+  <br/><br/>
  - Criar um fluxo conversasional no [builder da plataforma da Blip](https://account.blip.ai/login?utm_source=youtube&utm_medium=link&utm_term=ama_86&utm_content=ama_86) que irá demonstrar ao usuário, em um Carrossel os valores da empresa e também um card de desafio, respectivamente os cards de valores direcionando aos valores da empresa e o de desafio mostrando outro carrossel com os 5 repositórios com o filtro e ordenação solicitados.
  <hr>
 
