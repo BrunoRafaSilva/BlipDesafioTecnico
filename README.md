@@ -7,7 +7,7 @@
 :pencil2: [Descrição da atividade](#descrição-da-atividade)
 :computer: [Tecnologias utilizadas](#tecnologias-utilizadas)
 :rocket: [Como executar o projeto](#como-executar-o-projeto)
-:open_file_folder: [Layout](#layout)
+:open_file_folder: [Layout](#layout-diretório)
 <hr>
 
 ## Descrição da atividade
